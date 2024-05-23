@@ -17,8 +17,8 @@
 
 2. You can access the live website [here]():
    - Frontend hosted on [Vercel](https://vercel.com/)
-   - Spring Boot backend hosted on [Render]: (https://render.com/)
-   - MySQL database hosted on [Railway]: (https://railway.yap/)
+   - Spring Boot backend hosted on [Render](https://render.com/)
+   - MySQL database hosted on [Railway](https://railway.yap/)
 
 
 ## <a name="#introduction">🤖 Introduction</a>
@@ -113,14 +113,14 @@ cd server
 
 ## <a name="#bestpractises">🕸️ Best Practises Used</a>
 
-👉 **Custom Hooks**.
-👉 **Code Splitting**.
-👉 **Well Organized Folder Structure**.
-👉 **Global State Management using Redux**.
-👉 **Responsiveness and Accessibility**.
-👉 **Protected Routes**.
-👉 **Pagination and Sorting**.
-👉 **Filter Data**.
+1. 👉 **Custom Hooks**.
+2. 👉 **Code Splitting**.
+3. 👉 **Well Organized Folder Structure**.
+4. 👉 **Global State Management using Redux**.
+5. 👉 **Responsiveness and Accessibility**.
+6. 👉 **Protected Routes**.
+7. 👉 **Pagination and Sorting**.
+8. 👉 **Filter Data**.
 
 
 
